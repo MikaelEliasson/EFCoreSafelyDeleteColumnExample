@@ -145,6 +145,10 @@
     <Compile Include="Migrations\20191208164348_Initial.designer.cs">
       <DependentUpon>20191208164348_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20191208164625_RemoveColumnFromQueries.cs" />
+    <Compile Include="Migrations\20191208164625_RemoveColumnFromQueries.designer.cs">
+      <DependentUpon>20191208164625_RemoveColumnFromQueries.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\ContextModelSnapshot.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
