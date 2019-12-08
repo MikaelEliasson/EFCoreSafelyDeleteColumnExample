@@ -149,6 +149,10 @@
     <Compile Include="Migrations\20191208164625_RemoveColumnFromQueries.designer.cs">
       <DependentUpon>20191208164625_RemoveColumnFromQueries.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20191208165312_RemoveColumnFromDatabase.cs" />
+    <Compile Include="Migrations\20191208165312_RemoveColumnFromDatabase.designer.cs">
+      <DependentUpon>20191208165312_RemoveColumnFromDatabase.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\ContextModelSnapshot.cs" />
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
